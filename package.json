@@ -1,6 +1,6 @@
 {
     "name": "@celestial-community/baileys",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "WhatsApp API Modification",
     "keywords": [
         "whatsapp",
@@ -24,7 +24,7 @@
     "types": "lib/index.d.ts",
     "files": [
         "lib/*",
-        "WAProto/*.js",
+        "WAProto/*",
         "engine-requirements.js"
     ],
     "scripts": {
@@ -65,7 +65,7 @@
         "node-cache": "^5.1.2",
         "node-fetch": "^2.6.1",
         "pino": "^7.0.0",
-        "protobufjs": "^7.2.4",
+        "protobufjs": "^8.8.1",
         "uuid": "^9.0.0",
         "ws": "^8.13.0"
     },
