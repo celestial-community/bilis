@@ -1,6 +1,6 @@
 {
     "name": "@celestial-community/baileyscrew",
-    "version": "1.4.1",
+    "version": "1.4.2",
     "description": "WhatsApp API Modification",
     "keywords": [
         "whatsapp",
@@ -61,7 +61,7 @@
         "futoin-hkdf": "^1.5.1",
         "gradient-string": "^3.0.0",
         "libphonenumber-js": "^1.10.20",
-        "libsignal": "npm:@alipclutch/libsignal-node",
+        "libsignal": "^6.0.0",
         "lodash": "^4.17.21",
         "music-metadata": "^7.12.3",
         "node-cache": "^5.1.2",
